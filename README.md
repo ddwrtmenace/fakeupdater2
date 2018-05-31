@@ -6,7 +6,7 @@
 
 **Lubricant**
 
-* For recyclers..
+* For recyclers.. (they get a new slot to put it in)
 * Makes them faster
 * Made from oil
 
@@ -15,17 +15,17 @@
 * Barricades arent all that interesting right now.
 * Make them increase HP of surrounding base pieces. 
 * Players would begin placing them around their base which will make them look cooler while also giving the barricades more of a purpose. 
-* The salvaged hammer should be the best tool for destroying barricades which will give it a higher meaning as well. 
-* I was able to fit 10 barricades around [this particular base](https://imgur.com/a/B7r53) which meant a total increase on HP of walls and doors of 40% if each barricade increased base HP by 4%. Raiders could go for the door with an extra satchel charge or two, or they could spend a bit of time to dismantle the barricades first and save on satchel charges.
+* The salvaged hammer should be the best tool for destroying barricades which will give it a higher meaning as well. (Its not really used much right now despite how cool it is) 
+* Test setup: I was able to fit 10 barricades around [this particular base](https://imgur.com/a/B7r53) which meant a total increase on HP of walls and doors of 40% if each barricade increased base HP by 4%. Doors would require an extra satchel charge or two, or you could spend a bit of time to dismantle the barricades first to save on satchel charges.
 * Barricades would likely need a rebalance in terms of cost and hitpoints etc.
 
 **Light sensor**
 
-* A QoL item you can craft that turns on the lights when you get home. Turns off when you leave. Recipe requires tech trash. Presume you can set it up outside base, so if enemies get close lights will fire up at night and you can see em from your windows (If you designed your base with a tower with windows of sorts).
+* A QoL item with a built in light that turns on when it detects movement. Recipe requires tech trash. Presumably you can set it up outside base too so if someone or something gets close lights will fire up and you can see em from your windows (If you designed your base with that).
 
 **Bigger stacks storage**
 
-* Mid/Late game item. All items in this chest will stack 10x. So if you have 10 pumpkins, they only take up one slot. Medical syringes will stack to 20, large medkits, hasmat suits etc. will stack up to 10. Wood will stack up to 10k and so on.
+* Mid/Late game item. All items in this chest will stack 10x. So if you have 10 pumpkins, they only take up one slot. Medical syringes will stack to 20, large medkits, hasmat suits etc. will stack up to 10. Wood will stack up to 10k and so on. 
 
 **Reduce plant life stages to 3**
 
@@ -41,35 +41,35 @@
 
 **Proximity Sensor**
 
-* A device that will detect base campers. Mid/lategame item. The sound it gives off will also alert the camper he is spotted.
-* Possibly placed like a drop box which means it needs space on both side of the wall and can be destroyed by other players.
+* A device that will detect base campers. Mid/lategame item. The sound it gives off will also alert the camper he is spotted which will be a deterrent in itself.
+* Possibly placed like a drop box which means it needs space on both side of the wall and can be destroyed by players from the outside.
 
 **Carrot juice**
 
 * Made from carrots
-* Helps you see at night. Makes night less of a PITA when moon is not out.
+* Helps you see slightly better at night. Makes night less of a PITA when moon is not out.
 * http://www.sciencefocus.com/qa/do-carrots-really-help-you-see-dark
 
 **Shoot the air-drop parachute to make it drop faster**
 
-* Other players will be alerted to your presence but you may be the first to get hands on the airdrop. Your choice.
+* First to the drop? Think its coming down too slow? Attempt to shoot the paaechute! Other players will be alerted to your presence but you raise your chance of getting the airdrop. Your choice.
 
 **Planters keep plants alive**
 
 
-* A plant in a planter should never die. This means you dont have to worry about the plant dying. This gives planters reliable and useful.
+* A plant in a planter should never die. This isnt realistic but it means you dont have to worry about the plant dying. This gives planters a purpose!
 
 
 **Updated UI**
 
-* UI hasnt changed look in years. Holding a competition by asking community to experiment with designs. If a design is picked the winner gets something.
+* UI hasnt changed look in years. Perhaps hold a competition by asking community to experiment with designs. If a design is picked the winner gets something.
 
 
 **Become hungry and thirsty while sleeping**
 
 * If implemented players will find themselves thirsty and hungry depending on how long since they last logged in. A player should never die from thirst or hunger while sleeping.
 * Goal: Have players emphasize a little more on food and water (Also makes sense the character is hungry and thirsty when logging back in after x amount of time)
-* Makes water collectors etc. more attractive, especially for larger groups
+* Makes water collectors etc. more attractive
 
 
 **Large Metal Box**
@@ -82,17 +82,12 @@
 
 **Metal furnace**
 
-* Extracts high quality metal from metal fragments and scrap. Chance based.
-* 2% chance for fragments to generate a HQM. (This means roughly 114 fragments = 1 HQM = 5,700 fragments for an AK for example (If unlucky it can be >10,000 fragments just to get 50 HQM for an AK))
-* 10% chance for scrap (22 scrap will be roughly = 1 HQM then)
-* Source: http://www.dropchance.guru/
-
-*These probabilies should be subject to change/further analysis.*
+* Extracts high quality metal from metal fragments and scrap. Very low drop chance. Only for excess fragments.
 
 
 **Show "no build" zones on map**
 
-* The map displays the no build zones around monuments and caves. This way players dont have to feel around. Avoids issue where players build for example too close to a cave unknowingly and find out only too late when trying to expand.
+* The map displays the no build zones around monuments and caves. This way players dont have to feel around when starting a base. Avoids issue where players build for example too close to a cave unknowingly and find out only too late when trying to expand.
 
 
 **Show radiation zones on map**
@@ -113,13 +108,13 @@
 
 * Players can demolish base pieces at any time providing they have building access. Mark a piece for demolishing with the blueprint, take it down with the hammer (Hit it a few times and watch it deconstruct). Most if not all resources are wasted.
 
-* Bonus item: Metal Tool cupboard, stronger than the wooden tool cupboard to prevent raiders from getting easy access to demolish (Remember to put a lock on). Mid/Late game item.
+* Bonus item: Metal Tool cupboard, stronger than the wooden tool cupboard to prevent raiders from getting easy access to demolish (Remember to put a lock on). Late game item.
 * Bonus item: Thermite, twice as expensive as C4 but will destroy a lock. Only useful for raiding Metal Cupboards.
 
 
 **Allow moving any object and make them take a smaller hit to durability when doing so**
 
-* Not being able to move items such as work benches and tool cupboards can be frustrating. This is a streamline patch that balances object HP and makes the movable.
+* Not being able to move items such as work benches and tool cupboards can be frustrating. 
 
 
 **Lamps, fireplaces etc. shine slightly when turned off**
